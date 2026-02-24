@@ -51,9 +51,7 @@ phishing-detection-AIML/
 A phishing dataset containing labeled URLs (legitimate or phishing) is used for training and testing.
 
 2️⃣ Feature Extraction
-
 Common URL-based features:
-
 URL length
 
 Presence of “@” symbol
