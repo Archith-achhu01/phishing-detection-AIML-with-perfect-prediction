@@ -34,7 +34,9 @@ Scikit-learn
 Matplotlib / Seaborn (for visualization)
 
 Flask / Streamlit (if you built a web interface)
+
 📂 Project Structure
+
 phishing-detection-AIML/
 │
 ├── dataset/                # Dataset files
